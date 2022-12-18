@@ -1,0 +1,17 @@
+{
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-css-modules",
+    "stylelint-config-recess-order"
+  ],
+  "rules": {
+    "indentation": 2,
+    "no-descending-specificity": null,
+    "comment-whitespace-inside": null,
+    "comment-empty-line-before": null,
+    "alpha-value-notation": "number",
+    "selector-class-pattern": null,
+    "color-function-notation": "legacy",
+    "declaration-block-no-redundant-longhand-properties": null
+  }
+}
